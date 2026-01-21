@@ -1,0 +1,13 @@
+services:
+  mysql-db:
+    image: mysql:8.0
+    container_name: mysql_optica
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: optica
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./datos_docker:/var/lib/mysql

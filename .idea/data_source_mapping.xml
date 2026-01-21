@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" value="e6bee954-afff-4222-bcfe-296d97a06fff" />
+    <file url="file://$PROJECT_DIR$/optica_data_insertion.sql" value="e6bee954-afff-4222-bcfe-296d97a06fff" />
+    <file url="file://$PROJECT_DIR$/optica_init.sql" value="e6bee954-afff-4222-bcfe-296d97a06fff" />
+    <file url="file://$PROJECT_DIR$/optica_queries.sql" value="e6bee954-afff-4222-bcfe-296d97a06fff" />
+    <file url="file://$PROJECT_DIR$/optica_tables_definition.sql" value="e6bee954-afff-4222-bcfe-296d97a06fff" />
+  </component>
+</project>
